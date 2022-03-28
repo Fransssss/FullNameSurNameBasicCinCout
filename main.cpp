@@ -1,7 +1,7 @@
 //Title ; Basic input and cutput I/O
 // Purosese; practice output message to console and take input from user
 // Enjoy the Process :)
-// Author ; Fransiskus Agapa
+// Author : Fransiskus Agapa
 
 #include <iostream>
 #include <string>
